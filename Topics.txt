@@ -1,0 +1,9 @@
+Selenium Training with Intellij IDE
+Frameworks - Junit
+Gradle as Build Tool, Creation of Gradle project
+Integration with Jenkins
+Updating Selenium results to HP ALM
+Intellij IDE and Gitlab
+
+TestNg
+Mostly eclipse is used as IDE as per our understanding But we need IntelliJ
